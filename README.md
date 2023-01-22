@@ -4,7 +4,7 @@
 
 ## 📄 About me:
 
-I`m a beginner android developer. I started learning programming when I was 13. I was creating sites, games, programs, and now I do mobile applications. Also I know many programming languages, for example Python, C++, C#, Java, Kotlin and so on.
+I`m a beginner android developer. I started learning development at 15. Know many programming languages, like C++, Python, C#, Kotlin.
 
 ```kotlin
 
