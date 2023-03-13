@@ -4,8 +4,6 @@
 
 ## 📄 About me:
 
-I`m a beginner android developer. I started learning development at 15. Know many programming languages, like C++, Python, C#, Kotlin.
-
 ```kotlin
 
 interface Me {
