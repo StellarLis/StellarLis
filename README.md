@@ -4,37 +4,17 @@
 
 ## 📄 About me:
 
-```kotlin
-
-interface Me {
-    val name: String
-    val age: Int
-}
-
-class About : Me {
-    override val name = "Andrew"
-
-    override val age = 16
-
-    val programmingLanguage = "Kotlin"
-
-    val levelOfEnglish = "B1"
-
-    fun getListOfKnowledge(): List<String> {
-        return listOf(
-            "Android SDK",
-            "Retrofit",
-            "Room",
-            "Hilt",
-            "Clean Architecture",
-            "MVVM",
-            "Kotlin Coroutines",
-            "JUnit",
-            "Git"
-        )
+```javascript
+class AboutMe {
+    constructor() {
+        this.name = "Andrew";
+        this.age = 16;
+        this.programmingLanguage = "JavaScript";
+    }
+    async getDescription() {
+        return "I'm beginner software developer. I can make a site or code a simple server :)";
     }
 }
-
 ```
 
 ---
