@@ -4,15 +4,19 @@
 
 ## 📄 About me:
 
-```javascript
-class AboutMe {
-    constructor() {
+```java
+public class AboutMe {
+    String name;
+    List<String> programmingLanguages = new ArrayList<>();
+    
+    AboutMe() {
         this.name = "Andrew";
-        this.age = 16;
-        this.programmingLanguage = "JavaScript";
+        this.programmingLanguages.add("Java");
+        this.programmingLanguages.add("JavaScript");
     }
-    async getDescription() {
-        return "I'm beginner software developer. I can make a site or code a simple server :)";
+    
+    public void saySomeInfo() {
+        System.out.println("I'm a beginner software developer!");
     }
 }
 ```
