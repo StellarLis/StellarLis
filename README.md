@@ -16,7 +16,7 @@ public class AboutMe {
     }
     
     public void saySomeInfo() {
-        System.out.println("I'm a beginner software developer!");
+        System.out.println("I'm beginner software developer!");
     }
 }
 ```
