@@ -23,6 +23,10 @@ public class AboutMe {
 
 ---
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/StellarLis)
+
+---
+
 ## 🤝 How to contact me:
 
 - Email: andrey13788822@gmail.com
