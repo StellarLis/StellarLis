@@ -9,13 +9,16 @@ public class AboutMe {
     String name;
     List<String> programmingLanguages = new ArrayList<>();
     
-    AboutMe() {
+    public AboutMe() {
         this.name = "Andrew";
         this.programmingLanguages.add("Java");
         this.programmingLanguages.add("Go");
     }
 }
 ```
+
+## My contacts:
+- Telegram: https://t.me/StellarLis
 
 ---
 
