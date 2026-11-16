@@ -17,8 +17,7 @@
 ### 👨‍💻 About Me
 
 - ☕ Focused on **Java Backend Development**
-- 🌱 Exploring **Spring Boot, Microservices & System Design**
-- 🗄️ Interested in **Databases, REST APIs & Backend Architecture**
+- 🌱 Proficionally working with **Spring Boot, Microservices & System Design**
 - 🧪 Experience with **Automated Testing**
 - 🧠 Improving problem-solving skills on **LeetCode**
 
@@ -32,7 +31,7 @@
 
 **Databases & Infrastructure**
 
-![Infrastructure](https://skillicons.dev/icons?i=postgres,redis,docker,git,github&theme=dark)
+![Infrastructure](https://skillicons.dev/icons?i=postgres,redis,docker,git,github,kafka&theme=dark)
 
 **Development Tools**
 
@@ -59,8 +58,7 @@
 ### 🚀 What I'm Working On
 
 - Developing backend applications with **Java & Spring Boot**
-- Improving my understanding of **SQL and database optimization**
-- Learning **microservices architecture and distributed systems**
+- Utilizing **microservices architecture and distributed systems**
 - Practicing **data structures and algorithms**
 
 ---
